@@ -1,0 +1,1 @@
+class TestBean : ArrayList<TestBeanItem>()
