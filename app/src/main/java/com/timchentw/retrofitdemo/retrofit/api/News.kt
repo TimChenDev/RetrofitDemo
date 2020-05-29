@@ -16,6 +16,8 @@ import retrofit2.http.Query
  *
  *  這裡定義 api 路徑(/getJsonData.php)
  *  定義 api 參數(id=2)
+ *
+ *  api 資料來源: https://data.gov.tw/dataset/94024
  */
 interface News {
 
